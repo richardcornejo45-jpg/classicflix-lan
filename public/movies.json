@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "A Trip to the Moon (Le Voyage dans la Lune)",
+    "year": 1902,
+    "category": "Cine Mudo",
+    "duration": "13 min",
+    "rating": 4.9,
+    "director": "Georges Méliès",
+    "synopsis": "Un grupo de astrónomos viaja a la Luna en una cápsula impulsada por un cañón gigante y explora su superficie habitada por Selenitas.",
+    "posterUrl": "/images/luna.jpg",
+    "videoUrl": "/videos/luna.mp4"
+  },
+  {
+    "id": "2",
+    "title": "Un Chien Andalou",
+    "year": 1929,
+    "category": "Cortometrajes Clásicos",
+    "duration": "16 min",
+    "rating": 4.85,
+    "director": "Luis Buñuel",
+    "synopsis": "Cortometraje surrealista icónico que explora asociaciones de imágenes oníricas y provocadoras sin una narrativa lineal tradicional.",
+    "posterUrl": "/images/andalou.jpg",
+    "videoUrl": "/videos/andalou.mp4"
+  },
+  {
+    "id": "3",
+    "title": "A Chairy Tale",
+    "year": 1957,
+    "category": "Cortometrajes Clásicos",
+    "duration": "10 min",
+    "rating": 4.7,
+    "director": "Norman McLaren",
+    "synopsis": "Un joven intenta sentarse en una silla animada que parece tener vida propia y rechaza obstinadamente sus intentos.",
+    "posterUrl": "/images/chairy.jpg",
+    "videoUrl": "/videos/chairy.mp4"
+  },
+  {
+    "id": "4",
+    "title": "The Scarecrow",
+    "year": 1920,
+    "category": "Comedia / Cine Mudo",
+    "duration": "18 min",
+    "rating": 4.8,
+    "director": "Buster Keaton",
+    "synopsis": "Dos peones mecánicos compiten por el amor de la hija del granjero en una casa llena de inventos ingeniosos y cómicos.",
+    "posterUrl": "/images/scarecrow.jpg",
+    "videoUrl": "/videos/scarecrow.mp4"
+  },
+  {
+    "id": "5",
+    "title": "Frankenstein",
+    "year": 1910,
+    "category": "Terror Clásico",
+    "duration": "16 min",
+    "rating": 4.6,
+    "director": "J. Searle Dawley",
+    "synopsis": "La primera adaptación cinematográfica del mito de Frankenstein, producida por los estudios de Thomas Edison.",
+    "posterUrl": "/images/frankenstein.jpg",
+    "videoUrl": "/videos/frankenstein.mp4"
+  },
+  {
+    "id": "6",
+    "title": "Gertie the Dinosaur",
+    "year": 1914,
+    "category": "Animación Clásica",
+    "duration": "12 min",
+    "rating": 4.8,
+    "director": "Winsor McCay",
+    "synopsis": "Una de las primeras obras maestras de la animación en la historia del cine, donde un dibujante interactúa con su dinosaurio Gertie.",
+    "posterUrl": "/images/gertie.jpg",
+    "videoUrl": "/videos/gertie.mp4"
+  },
+  {
+    "id": "7",
+    "title": "The Great Train Robbery",
+    "year": 1903,
+    "category": "Cine Mudo",
+    "duration": "12 min",
+    "rating": 4.9,
+    "director": "Edwin S. Porter",
+    "synopsis": "Pionero del género western que narra el asalto a un tren de pasajeros por una banda de bandidos en el viejo oeste.",
+    "posterUrl": "/images/train.jpg",
+    "videoUrl": "/videos/train.mp4"
+  },
+  {
+    "id": "8",
+    "title": "The Skeleton Dance",
+    "year": 1929,
+    "category": "Animación Clásica",
+    "duration": "5 min",
+    "rating": 4.9,
+    "director": "Walt Disney",
+    "synopsis": "Cuatro esqueletos humanos se levantan a medianoche en un cementerio para bailar una macabra y divertida melodía.",
+    "posterUrl": "/images/skeleton.jpg",
+    "videoUrl": "/videos/skeleton.mp4"
+  },
+  {
+    "id": "9",
+    "title": "Trip to Jupiter (Le Voyage à Jupiter)",
+    "year": 1909,
+    "category": "Cine Mudo",
+    "duration": "8 min",
+    "rating": 4.7,
+    "director": "Segundo de Chomón",
+    "synopsis": "Un rey sueña con un viaje fantástico a través del sistema solar navegando en una nave espacial hasta el planeta Júpiter.",
+    "posterUrl": "/images/jupiter.jpg",
+    "videoUrl": "/videos/jupiter.mp4"
+  },
+  {
+    "id": "10",
+    "title": "Neighbours",
+    "year": 1952,
+    "category": "Cortometrajes Clásicos",
+    "duration": "8 min",
+    "rating": 4.8,
+    "director": "Norman McLaren",
+    "synopsis": "Dos vecinos viven en armonía hasta que una flor brota en la frontera entre sus দুই propiedades, desencadenando un conflicto.",
+    "posterUrl": "/images/neighbours.jpg",
+    "videoUrl": "/videos/neighbours.mp4"
+  }
+]
